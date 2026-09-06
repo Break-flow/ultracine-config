@@ -1,18 +1,18 @@
 {
-  "version": 2,
-  "updated_at": "2026-09-06T12:25:47.571Z",
+  "version": 3,
+  "updated_at": "2026-09-06T12:33:41.191Z",
   "dns_list": [
     {
       "id": "dns1",
       "url": "http://blushes.top",
       "priority": 1,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "dns2",
       "url": "http://fireweves.click",
       "priority": 2,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "dns3",
