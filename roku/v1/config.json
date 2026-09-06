@@ -1,0 +1,19 @@
+﻿{
+  "version": 1,
+  "updated_at": "2026-09-06T00:00:00Z",
+  "dns_list": [
+    { "id": "dns1", "url": "http://blushes.top", "priority": 1, "enabled": true },
+    { "id": "dns2", "url": "http://fireweves.click", "priority": 2, "enabled": true },
+    { "id": "dns3", "url": "", "priority": 3, "enabled": false },
+    { "id": "dns4", "url": "", "priority": 4, "enabled": false },
+    { "id": "dns5", "url": "", "priority": 5, "enabled": false }
+  ],
+  "dns_strategy": "priority_failover",
+  "epg_url": "https://tinyurl.com/uniepg",
+  "backgrounds": {
+    "splash": "",
+    "login": "",
+    "home": ""
+  },
+  "maintenance": { "enabled": false, "message": "" }
+}
